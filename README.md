@@ -5,7 +5,9 @@ A WebGL port of Super Mario 64.
 
 ## Controls
 
-Arrows to Move 
+
+←↑→ to Move 
+ ↓
 
 X - Jump
 
