@@ -7,8 +7,8 @@ A WebGL port of Super Mario 64.
 
 
 ←↑→ to Move 
+
  ↓
- 
 
 X - Jump
 
