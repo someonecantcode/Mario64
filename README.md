@@ -23,7 +23,7 @@ Space - Crouch
 ## Combinations
 * X + C = Jump Kick
 * Space + X + Running = Long Jump
-* X (3 times) + Arrows (Running) = Tripple Jump
+* X (3 Consequtive Jumps) + Arrows (Running) = Tripple Jump
 * Run to the side + X = Side Jump
 * On wall + X = Wall Jump
 * Hold Space + X (not moving) = Backflip Jump
