@@ -12,7 +12,7 @@ A WebGL port of Super Mario 64.
 
 X - Jump
 
-C - Jab
+C - Jab/Read Sign (facing it)
 
 W - Camera
 
