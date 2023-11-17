@@ -20,6 +20,10 @@ S - Uncamera
 
 Space - Crouch
 
+---
+Swimming
+Use Arrows (direction) + holding X (move forward)
+
 ## Combinations
 * X + C = Jump Kick
 * Space + X + Running = Long Jump
