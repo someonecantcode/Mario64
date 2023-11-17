@@ -43,3 +43,10 @@ Use Arrows (direction) + holding X (move forward)
 
 * Punch a butterfly
 * 100 Coins for a Star
+* Warp Locations
+1. Flowers & Bomb Holes in Bomb Bomb
+2. Corner next to fence
+3. Broken Bridge in Snow
+4. Hexagon Rock in Lava
+5. Tree or Block in Sand
+
