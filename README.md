@@ -2,6 +2,7 @@
 A WebGL port of Super Mario 64.
 
 [Game Link](https://someonecantcode.github.io/Mario64)
+**Save File by getting a star**
 
 ## Controls
 
@@ -37,4 +38,7 @@ Use Arrows (direction) + holding X (move forward)
 ### Combos Part 2
 
 * Tripple Jump Dive
-  
+
+#### Secrets
+
+* Punch a butterfly
