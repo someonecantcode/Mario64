@@ -42,3 +42,4 @@ Use Arrows (direction) + holding X (move forward)
 #### Secrets
 
 * Punch a butterfly
+* 100 Coins for a Star
