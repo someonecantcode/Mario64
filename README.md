@@ -24,8 +24,13 @@ Space - Crouch
 * X + C = Jump Kick
 * Space + X + Running = Long Jump
 * X (3 Consequtive Jumps) + Arrows (Running) = Tripple Jump
-* Run to the side + X = Side Jump
+* Run to the side (switch directions) + X = Side Jump
 * On wall + X = Wall Jump
 * Hold Space + X (not moving) = Backflip Jump
-* X + C + Running= Dive
-*X + Space  = Ground Pound
+* X + C + Running =  Dive 
+* X + Space  = Ground Pound
+
+### Combos Part 2
+
+* Tripple Jump Dive
+  
