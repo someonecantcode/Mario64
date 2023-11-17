@@ -2,7 +2,9 @@
 A WebGL port of Super Mario 64.
 
 [Game Link](https://someonecantcode.github.io/Mario64)
-**Save File by getting a star**
+
+
+**To Save, obtain a star**
 
 ## Controls
 
@@ -43,6 +45,8 @@ Use Arrows (direction) + holding X (move forward)
 
 * Punch a butterfly
 * 100 Coins for a Star
+* Left Peach Painting in the Bedroom
+* Look into the Ceiling at the center star in main building
 * Warp Locations
 1. Flowers & Bomb Holes in Bomb Bomb
 2. Corner next to fence
