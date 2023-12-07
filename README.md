@@ -24,6 +24,7 @@ S - Uncamera
 Space - Crouch
 
 Esc + Enter - Pause
+
 ---
 Swimming
 Use Arrows (direction) + holding X (move forward)
