@@ -23,7 +23,7 @@ S - Uncamera
 
 Space - Crouch
 
-Esc + Enter - Pause
+Enter - Pause
 
 ---
 Swimming
