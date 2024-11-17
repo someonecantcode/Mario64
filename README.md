@@ -1,9 +1,9 @@
 # Mario64
 A WebGL port of Super Mario 64.
 
-[Game Link](https://someonecantcode.github.io/Mario64)
+[Game Link](https://someonecantcode.github.io/Mario64)      [![Website](https://img.shields.io/website-up-down-green-red/http/someonecantcode.github.io/Mario64)](#)
 <br>
-[Vercel Game Link](https://mario64-beige.vercel.app/)
+[Vercel Game Link](https://mario64-beige.vercel.app/)  [![Website](https://img.shields.io/website-up-down-green-red/http/mario64-beige.vercel.app)](#)
 
 **To Save, obtain a star**
 
